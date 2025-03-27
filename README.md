@@ -1,4 +1,4 @@
-# Seba's Pizza Calculator
+# Seba's Pizza Calculator_V2
 
 Ein einfacher und benutzerfreundlicher Pizza-Rechner, der die Zutatenmengen basierend auf der Anzahl der gewünschten Pizzen berechnet.
 
@@ -26,7 +26,7 @@ Ein einfacher und benutzerfreundlicher Pizza-Rechner, der die Zutatenmengen basi
 
 1. Klonen Sie das Repository:
 ```bash
-git clone [Ihre-Repository-URL]
+git clone https://github.com/sebarino5/PizzaCalculator_V2.git
 ```
 
 2. Öffnen Sie die `index.html` Datei in Ihrem Browser
